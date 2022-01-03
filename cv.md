@@ -14,6 +14,9 @@ I want to learn Front-End Development in RSSchool!
     + Diligence
     + Team playing
 ---
+## Skills
+just getting started
+---
 ## Code Examples
 ```
 function bmi(weight, height) {
@@ -23,6 +26,9 @@ function bmi(weight, height) {
   return bmi <= 18.5 ? 'Underweight': bmi <= 25 ? 'Normal': bmi <= 30 ? 'Overweight': 'Obese';
 }
 ```
+---
+## Projects
+CV#3. CV
 ---
 ## Education
 Military Academy of the Republic of Belarus. Automated control systems. System engineer.
